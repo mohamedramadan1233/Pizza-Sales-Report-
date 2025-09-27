@@ -54,3 +54,10 @@ The analysis identified key trends and performance metrics across the business:
 * PIZZA SALES REPORT.pbix: The final Power BI report file.
 * Project Pizza.sql: SQL script used for data preparation and querying.
 * pizza_sales.csv: The raw source data file.
+
+---
+
+## 🔗 Connect with Me
+💼 [LinkedIn Profile](http://linkedin.com/in/mohamed-ramadan-3a56b328b) 
+
+
