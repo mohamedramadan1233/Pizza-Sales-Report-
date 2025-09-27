@@ -1,5 +1,15 @@
 # 🍕 Pizza Sales Report Analysis
 
+This project analyzes pizza sales data using **SQL** + **Power BI**.
+
+## 📊 Dashboard Previews
+
+### 🏠 Home Screen
+![Overview Dashboard](Screenshot 2025-09-26 163734.png)
+
+
+### 🥇 Best Sellers
+![Detailed Dashboard](Screenshot 2025-09-27 161522.png)
 
 ---
 
