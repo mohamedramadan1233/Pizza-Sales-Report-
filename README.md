@@ -1,7 +1,8 @@
 # 🍕 Pizza Sales Dashboard
 
 This project analyzes pizza sales data using **SQL** and **Power BI**.  
-It includes key insights such as total revenue, best-selling pizzas, and customer behavior.  
+This project delivers *critical data-driven insights* to *optimize revenue and enhance operational efficiency*. The dashboard provides key metrics to support strategic decision-making on menu performance, sales trending, and resource allocation 
+
 
 ---
 
