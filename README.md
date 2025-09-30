@@ -65,8 +65,8 @@ The pizza chain needed to identify:
 
 ## 📊 KPIs & Metrics  
 - *Total Revenue:* $817.86K  
-- *Total Orders:* 21.35K  
-- *Total Pizzas Sold:* 49.57K  
+- *Total Orders:* 21K  
+- *Total Pizzas Sold:* 50K  
 - *Average Order Value (AOV):* $38.31  
 - *Average Pizzas per Order:* 2.32  
 
