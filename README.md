@@ -2,6 +2,11 @@
 
 This project analyzes pizza sales data using **SQL** and **Power BI**.  
 This project delivers *critical data-driven insights* to *optimize revenue and enhance operational efficiency*. The dashboard provides key metrics to support strategic decision-making on menu performance, sales trending, and resource allocation 
+The goal was to uncover insights into sales performance, ordering behavior, and product trends.  
+The analysis answers key business questions such as:  
+- Which pizzas generate the most/least revenue?  
+- What are the busiest times for orders?  
+- Which categories and sizes contribute most to sales?  
 
 
 ---
@@ -23,6 +28,79 @@ This is a comprehensive, end-to-end data analysis project focusing on a pizza re
 
 * *Tools Used:* SQL (for data cleaning and initial querying), Microsoft Power BI (for analysis and visualization).
 * *Key Performance Indicators (KPIs):* Total Revenue ($817.86K), Total Orders (21K), and Total Pizza Sold (50K).
+
+---
+
+## 🎯 Business Problem Statement  
+The pizza chain needed to identify:  
+- Best and worst-performing pizzas.  
+- Seasonal and daily demand patterns.  
+- Customer preferences by category and size.  
+- Opportunities to improve revenue and efficiency.
+
+---
+
+## 📂 Dataset Overview  
+- *Period Covered:* Jan 2015 – Dec 2015  
+- *Key Fields:*  
+  - order_id, date, time  
+  - pizza_name, category, size  
+  - quantity, price  
+
+---
+
+## 🔄 Methodology  
+1. *SQL (Analysis):*  
+   - Wrote queries to calculate KPIs (revenue, orders, pizzas sold).  
+   - Extracted insights on best/worst sellers.  
+   - Built daily and monthly sales trends.  
+   - Grouped performance by category and size.  
+
+2. *Power BI (Visualization):*  
+   - Imported SQL results into Power BI.  
+   - Designed interactive dashboards with KPIs, charts, and trends.  
+
+
+---
+
+## 📊 KPIs & Metrics  
+- *Total Revenue:* $817.86K  
+- *Total Orders:* 21.35K  
+- *Total Pizzas Sold:* 49.57K  
+- *Average Order Value (AOV):* $38.31  
+- *Average Pizzas per Order:* 2.32  
+
+---
+
+## 📈 Dashboard Walkthrough  
+
+### 🔹 1. KPI Cards  
+Show overall sales performance at a glance: revenue, orders, quantity, and AOV.  
+
+---
+
+### 🔹 2. Best & Worst Sellers  
+- *Best Seller (Quantity):* Classic Deluxe Pizza.  
+- *Best Seller (Revenue):* Thai Chicken Pizza.  
+- *Worst Seller:* Brie Carre Pizza.  
+
+*Insight:* Focus on promoting best sellers with bundle offers, while reconsidering or re-pricing low-performing pizzas like Brie Carre.  
+
+---
+
+### 🔹 3. Daily Trend (Orders)  
+- Highest demand: *Thursday & Friday*.  
+- Lowest demand: *Saturday*.  
+
+*Insight:* Increase staffing on peak days to handle higher demand, and introduce targeted offers on slower days to balance sales.  
+
+---
+
+### 🔹 4. Monthly Trend (Orders)  
+- Highest: *January & April*.  
+- Lowest: *December*.  
+
+*Insight:* Possible seasonal effects or successful promotions. Replicate January/April strategies in December to increase performance.  
 
 ---
 
@@ -49,6 +127,7 @@ The analysis identified key trends and performance metrics across the business:
 3.  *Menu Review:* Review the cost and placement of the low-performing item, *The Brie Carre Pizza*, to consider either removal or redesign to minimize waste.
 
 ---
+
 
 ## 📂 Repository Contents
 
